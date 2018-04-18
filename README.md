@@ -12,11 +12,12 @@ Framer Syntax is a dark, minimalist theme inspired by the Framer’s popular cod
 
 ## Installation
 
-Find the theme on [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Framer.framer-syntax). Launch Quick Open from within Visual Studio Code by pressing `cmd ⌘ + Shift + P`. Type `theme` and `choose Preferences: Color Theme`, then select the Framer Syntax Theme from the list.
+- Install theme via [Marketplace](https://marketplace.visualstudio.com/items?itemName=Framer.framer-syntax)
+- Launch Quick Open from within Visual Studio Code by pressing `cmd ⌘ + Shift + P`. 
+- Type `theme` and `choose Preferences: Color Theme`
+- Select the Framer Syntax Theme
 
 Alternatively install via CLI:
 ```
 code --install-extension Framer.framer-syntax
 ```
-
-**Enjoy!**
