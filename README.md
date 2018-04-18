@@ -14,12 +14,11 @@ With support for popular coding languages like HTML, CSS, Javascript and JSON yo
 
 ## Installation
 
-Framer Syntax is available as a theme on [Visual Studio Code Marketplace](#). Launch Quick Open from within Visual Studio Code by pressing `cmd ⌘ + Shift + P`. Type `theme` and `choose Preferences: Color Theme`, then select the Framer Syntax Theme from the list.
+Find the theme on [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Framer.framer-syntax). Launch Quick Open from within Visual Studio Code by pressing `cmd ⌘ + Shift + P`. Type `theme` and `choose Preferences: Color Theme`, then select the Framer Syntax Theme from the list.
 
-Alternatively you can install Framer Syntax as your theme by cloning the Framer Syntax repository by entering the following code into commandline interface:
-
+Alternatively install via CLI:
 ```
-git clone git@github.com:framer/framersyntax.git ~/.vscode/extensions/framersyntaxv2
+code --install-extension Framer.framer-syntax
 ```
 
 **Enjoy!**
