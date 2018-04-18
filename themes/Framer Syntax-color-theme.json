@@ -13,7 +13,7 @@
     "list.inactiveSelectionForeground": "#fff",
     "list.highlightForeground": "#00AEFF",
     "scrollbarSlider.activeBackground": "#777",
-    "editorSuggestWidget.highlightForeground": "#333",
+    "editorSuggestWidget.highlightForeground": "#fff",
     "textLink.foreground": "#00AEFF",
     "progressBar.background": "#00AEFF",
     "pickerGroup.foreground": "#00AEFF",
@@ -170,7 +170,7 @@
 
     "pickerGroup.border": "#333",
 
-    "scrollbar.shadow": "#00000000",
+    "scrollbar.shadow": "#000",
     "scrollbarSlider.background": "#333",
     "scrollbarSlider.hoverBackground": "#333",
 
@@ -231,6 +231,7 @@
         "foreground": "#00AEFF"
       }
     },
+    // Typescript
     {
       "name": "Keyword",
       "scope": "keyword",
@@ -238,7 +239,7 @@
         "foreground": "#FFD14A"
       }
     },
-
+    // Typescript
     {
       "name": "Keywords",
       "scope": ["keyword.control.conditional", "keyword.control.import"],
@@ -278,21 +279,21 @@
       "name": "Punctuation Template Expression",
       "scope": "punctuation.definition.template-expression",
       "settings": {
-        "foreground": "#00AEFF"
+        "foreground": "#FFD14A"
       }
     },
     {
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#8df"
       }
     },
     {
       "name": "Storage Type Arrow Function",
       "scope": "storage.type.function.arrow",
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#FFD14A"
       }
     },
     {
@@ -306,21 +307,21 @@
       "name": "String Template",
       "scope": ["string.template", "punctuation.definition.string.template"],
       "settings": {
-        "foreground": "#00AEFF"
+        "foreground": "#91DD64"
       }
     },
     {
       "name": "Support",
       "scope": "support",
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#00AEFF"
       }
     },
     {
       "name": "Support Function",
       "scope": ["support.function"],
       "settings": {
-        "foreground": "#8df"
+        "foreground": "#00AEFF"
       }
     },
     {
@@ -334,7 +335,7 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#88DDFF"
+        "foreground": "#fff"
       }
     },
     // CSS ----------------------------------------------------------------------
@@ -496,7 +497,7 @@
         "meta.jsx.children.tsx"
       ],
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#00AAEF"
       }
     },
     {
@@ -545,6 +546,7 @@
         "foreground": "#91DD64"
       }
     },
+
     // Javascript ----------------------------------------------------------------------
     {
       "name": "[JAVASCRIPT] - Numbers",
@@ -555,16 +557,34 @@
     },
     {
       "name": "[JAVASCRIPT] - Keywords",
-      "scope": "source.js keyword",
+      "scope": "keyword.operator",
       "settings": {
         "foreground": "#f6b"
       }
     },
     {
+      "name": "[JAVASCRIPT] - Keywords",
+      "scope": "source.js keyword",
+      "settings": {
+        "foreground": "#f6b"
+      }
+    },
+
+    {
       "name": "[JAVASCRIPT] - Storage Type Function",
       "scope": "source.js storage.type.function",
       "settings": {
         "foreground": "#fff"
+      }
+    },
+    {
+      "name": "[JAVASCRIPT] - Keywords",
+      "scope": [
+        "source.js punctuation.definition.keyword",
+        "source.js keyword.control"
+      ],
+      "settings": {
+        "foreground": "#FFD14A"
       }
     },
     {
@@ -604,11 +624,12 @@
         "foreground": "#8df"
       }
     },
+    // Lines
     {
       "name": "Meta Brace",
       "scope": "meta.brace",
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#888"
       }
     },
     // Typescript ----------------------------------------------------------------------
@@ -638,5 +659,6 @@
         "foreground": "#a8f"
       }
     }
+    // React -----------------------------------------------------------------------
   ]
 }
