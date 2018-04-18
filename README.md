@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Framer Syntax</h1>
 
-<img src="https://github.com/framer/framersyntax/raw/master/framer-syntax.jpg" />
+<img src="https://raw.githubusercontent.com/framer/syntax-vsc/master/framer-syntax.jpg?token=ABICI8rhgWwONARgjny-_tW63uIvheBHks5a4KoowA%3D%3D" />
 
 ## Introduction
 
