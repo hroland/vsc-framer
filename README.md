@@ -1,6 +1,10 @@
-# Framer Syntax
 
-https://github.com/framer/framersyntax/raw/master/framer-syntax.jpg
+<p align="center">
+  <img src="https://raw.githubusercontent.com/framer/syntax-vsc/master/logo.png?token=ABICI54kliEyprvSAP1nxo_cpiMUdCgGks5a4Jh0wA%3D%3D" width="150" height="150"/>
+</p>
+<h1 align="center">Framer Syntax</h1>
+
+<img src="https://github.com/framer/framersyntax/raw/master/framer-syntax.jpg" />
 
 ## Introduction
 
