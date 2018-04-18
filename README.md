@@ -8,9 +8,7 @@
 
 ## Introduction
 
-Framer Syntax is a dark theme that has been designed to increase focus and clarity. This high-contrast theme is inspired by the color, clarity and characteristics of Framer’s code editor. By using visual aids like specific selection highlighting and custom widget styling, the Framer Syntax helps you visualize and understand the structure of your code, even while editing large files.
-
-This theme supports popular coding languages like HTML, CSS, JS, React and JSON, giving you everything you need to build amazing products for the Web.
+Framer Syntax is a dark, minimalist theme inspired by the Framer’s popular code editor. It supports coding languages like HTML, CSS, JS, React and JSON, giving you everything you need to build amazing products for the Web.
 
 ## Installation
 
