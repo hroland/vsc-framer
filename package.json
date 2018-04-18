@@ -1,14 +1,19 @@
 {
-  "name": "framer-syntaxv2",
+  "name": "framer-syntax",
   "displayName": "Framer Syntax",
   "description": "A color theme inspired by the Framer Editor",
   "version": "0.0.1",
   "publisher": "Framer",
-  "repository": "https://github.com/framer/FramerSyntax",
+  "repository": "https://github.com/framer/syntax-vsc",
   "engines": {
     "vscode": "^1.21.0"
   },
   "categories": ["Themes"],
+  "icon": "./icon.png",
+  "galleryBanner": {
+    "color": "#05F",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
