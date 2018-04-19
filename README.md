@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/framer/syntax-vsc/master/logo.png?token=ABICIx_8nmoNZQ_e5zUhhHAFglt22RGPks5a4KLXwA%3D%3D" width="134" height="134"/>
+  <img src="https://946663360620-us-east-1-static-files.s3.amazonaws.com/syntax/logo.png" width="128" height="128"/>/logo.png?token=ABICIx_8nmoNZQ_e5zUhhHAFglt22RGPks5a4KLXwA%3D%3D" width="134" height="134"/>
 </p>
 <h1 align="center">Framer Syntax</h1>
 
-<img src="https://raw.githubusercontent.com/framer/syntax-vsc/master/framer-syntax.jpg?token=ABICI8rhgWwONARgjny-_tW63uIvheBHks5a4KoowA%3D%3D" />
+<img src="https://946663360620-us-east-1-static-files.s3.amazonaws.com/syntax/vsc.png" />
 
 ## Introduction
 
