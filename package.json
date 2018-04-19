@@ -1,6 +1,6 @@
 {
   "name": "framer-syntax",
-  "displayName": "Framer Syntax",
+  "displayName": "Framer Syntaxv5",
   "description": "A color theme inspired by the Framer Editor",
   "version": "0.0.3",
   "publisher": "Framer",
@@ -17,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Framer Syntax",
+        "label": "Framer Syntaxv5",
         "uiTheme": "vs-dark",
         "path": "./themes/Framer Syntax-color-theme.json"
       }
