@@ -71,7 +71,8 @@
     "editorBracketMatch.background": "#333",
     "editorBracketMatch.border": "#333",
     "editorCodeLens.foreground": "#333",
-    "editorCursor.foreground": "#00AEFF",
+    "editorCursor.background": "#444",
+    "editorCursor.foreground": "#fff",
     "editorError.border": "#2D2D2D",
     "editorError.foreground": "#e27e8d",
 
