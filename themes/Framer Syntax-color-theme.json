@@ -227,6 +227,13 @@
       }
     },
     {
+      "name": "Constant",
+      "scope": "constant",
+      "settings": {
+        "foreground": "#FFD14A"
+      }
+    },
+    {
       "name": "Entity",
       "scope": "entity",
       "settings": {
@@ -623,7 +630,7 @@
       "name": "Meta",
       "scope": "meta",
       "settings": {
-        "foreground": "#8df"
+        "foreground": "#fff"
       }
     },
     // Lines
