@@ -1,28 +1,25 @@
 {
-    "name": "framer-syntax",
-    "displayName": "Framer Syntax",
-    "description": "A color theme inspired by the Framer Editor",
-    "version": "0.0.7",
-    "publisher": "Framer",
-    "repository": "https://github.com/framer/syntax-vsc",
-    "engines": {
-        "vscode": "^1.21.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "logo.png",
-    "galleryBanner": {
-        "color": "#09F",
-        "theme": "dark"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Framer Syntax",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Framer Syntax-color-theme.json"
-            }
-        ]
-    }
+  "name": "framer-dark",
+  "displayName": "Framer Dark",
+  "description": "A color theme inspired by the Framer Code Editor",
+  "version": "0.0.1",
+  "publisher": "hemlok",
+  "repository": "https://github.com/hemlok/vsc-theme-framer",
+  "categories": [
+    "Themes"
+  ],
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#09F",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Framer Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Framer Dark-color-theme.json"
+      }
+    ]
+  }
 }
