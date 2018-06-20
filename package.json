@@ -13,6 +13,9 @@
     "color": "#09F",
     "theme": "dark"
   },
+  "engines": {
+    "vscode": "^1.24.0"
+  },
   "contributes": {
     "themes": [
       {
