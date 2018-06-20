@@ -1,10 +1,10 @@
 {
   "name": "framer-dark",
   "displayName": "Framer Dark",
-  "description": "A color theme inspired by the Framer Code Editor",
+  "description": "A color theme extending on the first-party Framer-Syntax theme, and emulating Framer's code UI.",
   "version": "0.0.1",
   "publisher": "hemlok",
-  "repository": "https://github.com/hemlok/vsc-theme-framer",
+  "repository": "https://github.com/hemlok/vsc-framer",
   "categories": [
     "Themes"
   ],
@@ -18,7 +18,7 @@
       {
         "label": "Framer Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Framer Dark-color-theme.json"
+        "path": "./themes/framer-dark-color-theme.json"
       }
     ]
   }
