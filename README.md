@@ -14,10 +14,10 @@ Framer Dark is a fork of Framer Syntax, providing a more faithfull recreation of
 - Install theme via [Marketplace](https://marketplace.visualstudio.com/items?itemName=Framer.framer-syntax)
 - Launch Quick Open from within Visual Studio Code by pressing <kbd>cmd</kbd> <kbd>shift</kbd> <kbd>p</kbd>.
 - Type `theme` and choose `Preferences: Color Theme`
-- Select the Framer Syntax Theme
+- Select the Framer Dark Theme
 
 Alternatively install via CLI:
 
 ```
-code --install-extension Framer.framer-syntax
+code --install-extension hemlok.framer-dark
 ```
