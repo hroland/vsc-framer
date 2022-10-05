@@ -8,9 +8,9 @@
   "categories": [
     "Themes"
   ],
-  "icon": "https://raw.githubusercontent.com/hroland/vsc-framer/master/logo.png",
+  "icon": "logo.png",
   "galleryBanner": {
-    "color": "#09F",
+    "color": "#13151E",
     "theme": "dark"
   },
   "engines": {

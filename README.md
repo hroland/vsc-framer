@@ -1,10 +1,10 @@
 <h1 align="center"> 
-	<img src="https://raw.githubusercontent.com/hroland/vsc-framer/master/logo.png" width="48" height="48"/>
+	<img src="https://raw.githubusercontent.com/hroland/vscode-framer-abyss/master/logo.png" width="48" height="48"/><br/>
 	
 Framer Abyss
 </h1>
 
-<img src="https://raw.githubusercontent.com/hroland/vsc-framer/master/hero.png" />
+<img src="https://raw.githubusercontent.com/hroland/vscode-framer-abyss/master/hero.png" />
 
 ## Introduction
 
