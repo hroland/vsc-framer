@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hroland/vsc-framer/master/logo.png" width="128" height="128"/>
+  <img src="https://raw.githubusercontent.com/hroland/vsc-framer/master/logo.png" width="32" height="32"/>
 </p>
 <h1 align="center">Framer Abyss</h1>
 
