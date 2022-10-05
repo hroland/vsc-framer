@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/hroland/vsc-framer/master/logo.png" width="128" height="128"/>
 </p>
-<h1 align="center">Framer Dark: Abyss</h1>
+<h1 align="center">Framer Abyss</h1>
 
-<img src="https://raw.githubusercontent.com/hroland/vsc-framer/master/logo.png" />
+<img src="https://raw.githubusercontent.com/hroland/vsc-framer/master/hero.png" />
 
 ## Introduction
 
