@@ -7,8 +7,6 @@
   "type": "dark",
   "colors": {
     "activityBar.background": "#0d0d0d",
-    "activityBar.border": "#262626",
-    "activityBar.dropBackground": "#000",
     "activityBar.foreground": "#fff",
     "activityBarBadge.foreground": "#FFF",
 
@@ -149,11 +147,9 @@
     "scrollbarSlider.background": "#333",
     "scrollbarSlider.hoverBackground": "#333",
 
-    "sideBar.border": "#262626",
     "sideBar.foreground": "#888",
     "sideBarSectionHeader.foreground": "#888",
     "sideBarTitle.foreground": "#888",
-    "statusBar.border": "#262626",
     "statusBar.debuggingBackground": "#1e1e1e",
     "statusBar.debuggingForeground": "#666",
     "statusBar.foreground": "#666",
@@ -208,6 +204,10 @@
 		"titleBar.inactiveBackground" : "#13151e",
 		"editor.lineHighlightBackground" : "#1A202C",
 		"editor.findRangeHighlightBackground" : "#1A202C",
+
+		"activityBar.border": "#262830",
+		"statusBar.border": "#262830",
+		"sideBar.border": "#262830",
   },
   "tokenColors": [
     {
