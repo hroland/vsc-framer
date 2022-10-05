@@ -1,14 +1,14 @@
 {
-  "name": "framer-dark",
-  "displayName": "Framer Dark",
-  "description": "A color theme extending on the first-party Framer-Syntax theme, and emulating Framer's code UI.",
-  "version": "0.0.1",
-  "publisher": "hemlok",
-  "repository": "https://github.com/hemlok/vsc-framer",
+  "name": "framer-abyss",
+  "displayName": "Framer Abyss",
+  "description": "A color theme combining the hue of space and the deep sea, with themes inspired by Framer's code editor",
+  "version": "1.0.0",
+  "publisher": "hroland",
+  "repository": "https://github.com/hroland/vscode-framer-abyss",
   "categories": [
     "Themes"
   ],
-  "icon": "logo.png",
+  "icon": "https://raw.githubusercontent.com/hroland/vsc-framer/master/logo.png",
   "galleryBanner": {
     "color": "#09F",
     "theme": "dark"
@@ -19,7 +19,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Framer Dark",
+        "label": "Framer Abyss",
         "uiTheme": "vs-dark",
         "path": "./themes/framer-dark-color-theme.json"
       }

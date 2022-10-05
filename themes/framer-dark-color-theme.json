@@ -1,5 +1,9 @@
+// Credits to 
+// https://github.com/hemlok/vsc-framer
+// and
+// https://github.com/steven-ph/FramerSyntax-VScodeTheme
 {
-  "name": "Framer Syntax",
+  "name": "Framer Abyss",
   "type": "dark",
   "colors": {
     "activityBar.background": "#0d0d0d",

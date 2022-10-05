@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://946663360620-us-east-1-static-files.s3.amazonaws.com/syntax/logo.png" width="128" height="128"/>
+  <img src="https://raw.githubusercontent.com/hroland/vsc-framer/master/logo.png" width="128" height="128"/>
 </p>
-<h1 align="center">Framer Dark</h1>
+<h1 align="center">Framer Dark: Abyss</h1>
 
-<img src="https://user-images.githubusercontent.com/9043345/41627026-7b1dc154-7416-11e8-95a9-965ad29a72c1.jpg" />
+<img src="https://raw.githubusercontent.com/hroland/vsc-framer/master/logo.png" />
 
 ## Introduction
 
-Framer Dark is a fork of Framer Syntax, providing a more faithfull recreation of the Framer Code UI. Framer Syntax is a dark, minimalist theme inspired by Framer’s popular code editor. It supports coding languages like HTML, CSS, JS, and JSON, giving you everything you need to build amazing products for the Web.
+Framer Dark Abyss is a fork of [@hemlok's Framer Dark](https://github.com/hemlok/vsc-framer), and [@steven-ph's Framer Syntax 2](https://github.com/steven-ph/FramerSyntax-VScodeTheme), with a global blue hue tint, reminiscent of space, or the deep sea. The themes are inspired by Framer’s code editor.
 
 ## Installation
 
-- Install theme via [Marketplace](https://marketplace.visualstudio.com/items?itemName=Framer.framer-syntax)
-- Launch Quick Open from within Visual Studio Code by pressing <kbd>cmd</kbd> <kbd>shift</kbd> <kbd>p</kbd>.
+- Install theme via [Marketplace](https://marketplace.visualstudio.com/items?itemName=hroland.framer-abyss)
+- Launch Quick Open from within Visual Studio Code by pressing <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>p</kbd>.
 - Type `theme` and choose `Preferences: Color Theme`
-- Select the Framer Dark Theme
+- Select the Framer Abyss theme
 
 Alternatively install via CLI:
 
 ```
-code --install-extension hemlok.framer-dark
+code --install-extension hroland.framer-abyss
 ```
