@@ -2,7 +2,7 @@
   "name": "framer-abyss",
   "displayName": "Framer Abyss",
   "description": "A color theme combining the hue of space and the deep sea, with themes inspired by Framer's code editor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "hroland",
   "repository": "https://github.com/hroland/vscode-framer-abyss",
   "categories": [
