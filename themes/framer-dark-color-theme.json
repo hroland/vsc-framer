@@ -174,7 +174,7 @@
 
 		// Custom by @hroland
 		,"editorIndentGuide.activeBackground" : "#555",
-		"editorIndentGuide.background" : "#2b2b2b",
+		"editorIndentGuide.background" : "#2A2E36",
 		"textCodeBlock.background" : "#13151e",
 		"panel.background" : "#13151e",
 		"titleBar.activeBackground" : "#13151e",
@@ -669,7 +669,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings" : {
-				"foreground" : "#464a52"
+				"foreground" : "#5c6068"
 			}
 		}
   ]
